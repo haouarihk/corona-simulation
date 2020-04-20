@@ -1,0 +1,2 @@
+# corona-simulation
+ simple project 
