@@ -1,4 +1,4 @@
 # corona-simulation
  simple project 
-go on https://ghcdn.rawgit.org/wolfpat01/corona-simulation/master/index.html
+go on [page](https://github.app/haouarihk/corona-simulation)
 to test on the site
